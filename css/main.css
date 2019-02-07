@@ -20,3 +20,31 @@ html {
 body {
   margin: 0;
 }
+
+.melon {
+  background-color: #e97065;
+}
+
+.tit1 {
+  font-family: "Rammetto One", sans-serif;
+}
+
+.star {
+  background-color: #fbd25e;
+}
+
+.tit2 {
+  font-family: "Gravitas One", serif;
+}
+
+.persim {
+  background-color: #e86033;
+}
+
+.tit3 {
+  font-family: Comfortaa, sans-serif;
+}
+
+.content {
+  font-family: "Open Sans", sans-serif;
+}
